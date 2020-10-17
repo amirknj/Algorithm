@@ -1,3 +1,3 @@
 # Algorithm
-#limit 
-#top one
+limit 
+top one
